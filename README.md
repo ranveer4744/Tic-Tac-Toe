@@ -8,3 +8,4 @@ Tic-tac-toe is a game for where players take turns marking the spaces in a N×N 
 ![alt-text](https://media.giphy.com/media/Sr3LBhy05LYMCsszu3/giphy.gif)
 
 ![alt-text](https://github.com/ranveer4744/Tic-Tac-Toe/blob/master/screenshot_tic.png)
+Ends in a draw.

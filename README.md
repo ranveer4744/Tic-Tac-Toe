@@ -11,7 +11,7 @@ There are 4 classes (computer_player, human_player, game, board).
 
 The board class creates the board, places marks onto the board, and checks if someone has won. The initialize method accepts the size of the board as a natural number and a hash of player marks, and if they are a computer or human. True equals computer player, false equals human player --> (Eg. {x:true, y:false})
 
-The A.I. computer player is naive. The computer_player class is gets all of the possible positions on the board and arbitrarily selects one of the positions and places its' mark on that spot. 
+The A.I. computer player is naive. The computer_player class gets all of the possible positions on the board and arbitrarily selects one of the positions and places its' mark on that spot. 
 
 The human_player class gets a valid position from the human player are returns the position as coordinates for the board class.
 
